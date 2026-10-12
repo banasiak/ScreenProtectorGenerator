@@ -1,0 +1,4 @@
+__pycache__/
+
+# generated cut files
+*.svg
