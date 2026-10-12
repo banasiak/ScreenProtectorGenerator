@@ -83,3 +83,7 @@ python3 screen_protector.py --preset pixel9
 ```bash
 python3 -m unittest
 ```
+
+## License
+
+Released into the public domain under the [Unlicense](LICENSE).
